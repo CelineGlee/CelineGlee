@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😄, I'm Yuting Cai</h1>
+<h1 align="center">Hi 👋😄, I'm Yuting. Nice to Meet You !</h1>
 <h3 align="center">Enthusiastic recent graduate eager to start a career in AI/ML Engineering.</h3> 
 
 <p align="center"> Email: yutingcai810@gmail.com </p>
@@ -12,7 +12,7 @@
 
 <p> ⭐ Understanding requirements of projects, academic, research papers to enhance the performance with Artificail Intelligence and Machine Learning </p>
 
-<p> ⭐ Motivating on embaracing AI/ML in multiple domians like Cooking, Gaming, and Animal Health ! </p>
+<p> ⭐ Looking to explore and innovate with AI/ML in cooking, gaming, and animal health! </p>
 
 ## Skills
 ### Languages and Tools
