@@ -10,7 +10,7 @@
 </p>
 <p> IT (Specialization in AI) master graduate from the University of Melbournw. I leverage my strong foundations in model and software development to build fancy applications in Python </p>
 
-<p> ⭐ Understanding requirements of the institution and consulting for the projects, academic, research papers to enhance the performance with Artificail Intelligence and Machine Learning </p>
+<p> ⭐ Understanding requirements of projects, academic, research papers to enhance the performance with Artificail Intelligence and Machine Learning </p>
 
 <p> ⭐ Motivating on embaracing AI/ML in multiple domians like Cooking, Gaming, and Animal Health ! </p>
 
