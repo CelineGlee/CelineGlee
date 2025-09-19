@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋😄, I'm Yuting. Nice to Meet You !</h1>
 <h3 align="center">Enthusiastic recent graduate eager to start a career in AI/ML Engineering.</h3> 
 
-<p align="center"> Email: yutingcai810@gmail.com </p>
+<p align="center"> Email: yutingcai270@gmail.com </p>
 
 <h2 align="left">Socials</h2>
 <p align="left">
