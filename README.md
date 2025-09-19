@@ -12,7 +12,7 @@
 
 <p> ⭐ Understanding requirements of projects, academic, research papers to enhance the performance with Artificail Intelligence and Machine Learning </p>
 
-<p> ⭐ Looking to explore and innovate with AI/ML in cooking, gaming, and animal health! </p>
+<p> ⭐ Looking to explore and innovate with AI/ML in cooking, gaming, and health! </p>
 
 ## Skills
 ### Languages and Tools
