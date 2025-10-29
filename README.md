@@ -7,12 +7,13 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yuting-cai-7958b31a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuting (celine) cai" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/yutingcai270/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="yuting cai" height="40" width="40" /></a>
+<a href="https://huggingface.co/Yuting270" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="yuting270" height="40" width="40" /></a>
 </p>
 <p> IT (Specialization in AI) master graduate from the University of Melbournw. I leverage my strong foundations in model and software development to build fancy applications in Python </p>
 
 <p> ⭐ Understanding requirements of projects, academic, research papers to enhance the performance with Artificail Intelligence and Machine Learning </p>
 
-<p> ⭐ Looking to explore and innovate with AI/ML in cooking, gaming, and health! </p>
+<p> ⭐ Looking to explore and innovate with AI/ML in real-life field and help humans live better! </p>
 
 ## Skills
 ### Languages and Tools
