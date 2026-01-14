@@ -1,24 +1,56 @@
-<h1 align="center">Hi 👋😄, I'm Yuting. Nice to Meet You !</h1>
-<h3 align="center">Enthusiastic recent graduate eager to start a career in AI/ML Engineering.</h3> 
+## 👋 Hi, I'm Yuting. Welcome to My World ! </h2>
 
-<p align="center"> Email: yutingcai270@gmail.com </p>
+### 😎 About Me:
+- 🚀 I’m currently exploring Mathematics, ML, and AI, etc. 
+- 🦜 Fluent in **Mandarin** and **English**; currently learning **Japanese**. 
+- 💬 I’m looking for a job about software developer / ML-related role. 
+- 🌟 Developing fun and productive micro tool. 
+- ❤️ I love Crocheting, Reading, Digital Game, and BirdWatching!
+- 📧 You can reach me at: yutingcai270@gmail.com. 
 
-<h2 align="left">Socials</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/yuting-cai-7958b31a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuting (celine) cai" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/yutingcai270/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="yuting cai" height="40" width="40" /></a>
-<a href="https://huggingface.co/Yuting270" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="yuting270" height="40" width="40" /></a>
-</p>
-<p> IT (Specialization in AI) master graduate from the University of Melbournw. I leverage my strong foundations in model and software development to build fancy applications in Python </p>
+---
 
-<p> ⭐ Understanding requirements of projects, academic, research papers to enhance the performance with Artificail Intelligence and Machine Learning </p>
+### 🖥️ Skill:
+**Languages:**
+- Python, Java, C++, C#, JavaScript
+  
+**ML/DL:**
+- Tensorflow, Pytorch, Pandas, OpenCv
 
-<p> ⭐ Looking to explore and innovate with AI/ML in real-life field and help humans live better! </p>
+**Tool & Sevice:** 
+- React, React Native, Amplify, MySQL, ElasticSerach, Docker, AWS, Kubernetes, Fission, Kibana, Bash
 
-## Skills
-### Languages and Tools
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+**Software:** 
+- Blender, Unity, Procreate, Microsoft 365
 
-### AI/ML
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Other:**
+- Linux, Git, GitHub, GitLab
+- Kaggle, HuggingFace
+
+---
+
+### 👩‍💻 Internship Experience:
+Oct 2025 - Present, Software Development & ML Intern | Rooivalk <i>(Brisbane, Australia)</i>
+- Responsible for the development and maintenance of on-site websites for construction projects, enabling users to manage their machinery, companies, and employees at construction sites.
+- Utilizing mathematical models and statistics to optimize water purification results in water conservancy projects and reduce project costs. 
+
+Mar 2022 - May 2022, Data Analysis Intern | Bank of China <i>(Yunnan, China)</i>
+- Optimized core banking databases with SQL tuning and structural improvements, boosting efficiency and stability.
+- Analyzed multi-dimensional data with Excel (PivotTables, Power Query, VBA) to identify trends, support risk management, and ensure data integrity across IT, finance, and compliance teams.
+
+---
+  
+### 💪 Competition:
+- University of Melbourne 2024 Hackathon, AI Energy Optimization App, **Top 15**
+     - Award: Melbourne Plus – Sustainability Advocacy
+- Global Career Competency Program (GCCP), Cross-Cultural Leadership, **Top 2**
+     - Award: Melbourne Plus – People Leadership
+
+---
+
+### 🎓 Education:
+- Jul 2023 - Jul 2025, **Master of Information Technology - Artificial Intelligence**, The University of Melbourne
+  - Award: Graduate Foundation Scholarship, Faculty of Engineering and IT
+
+- Sep 2019 - Apr 2023, **Bachelor of Science - Modern Management and Information Technology**, Chiang Mai University
+  - Award: First-Class Honors Graduate
