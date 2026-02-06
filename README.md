@@ -11,26 +11,38 @@
 ---
 
 ### 🖥️ Skill:
-**Languages:**
-- Python, Java, C++, C#, JavaScript
+**ML/DL**
+- **Frameworks:** TensorFlow, PyTorch
+- **Data & Features:** Pandas, NumPy
+- **Computer Vision:** OpenCV
+- **Model Cloud & Deployment:** Kubernetes, Kibana, ElasticSerach, Fission, HuggingFace
+- **Skills:**
+  - Model training
+  - evaluation & optimization
+  - end-to-end ML workflows
+
+**Full-Stack Development**
+- **Frontend:**
+  - React, React Native, JavaScript, TypeScript
+- **Backend:**
+  - JavaScript (Node.js), C#, ASP.NET Core, RESTful APIs
+- **Database:**
+  - SQL Server, PostgreSQL
+- **Cloud & Deployment:**
+  - AWS, Amplify, Docker, CI/CD, Git, GitHub
+
+**Game Development:** 
+- Blender, Unity
   
-**ML/DL:**
-- Tensorflow, Pytorch, Pandas, OpenCv
-
-**Tool & Sevice:** 
-- React, React Native, Amplify, MySQL, ElasticSerach, Docker, AWS, Kubernetes, Fission, Kibana, Bash
-
-**Software:** 
-- Blender, Unity, Procreate, Microsoft 365
-
 **Other:**
-- Linux, Git, GitHub, GitLab
-- Kaggle, HuggingFace
-
+- Linux, Bash, GitLab
+- Microsoft 365
+- Procreate (drawing)
+  
 ---
 
 ### 👩‍💻 Internship Experience:
-Oct 2025 - Present, Software Development & ML Intern | Rooivalk <i>(Brisbane, Australia)</i>
+Oct 2025 - Present, Software Development Intern | Rooivalk <i>(Brisbane, Australia)</i>
 - Responsible for the development and maintenance of on-site websites for construction projects, enabling users to manage their machinery, companies, and employees at construction sites.
 - Utilizing mathematical models and statistics to optimize water purification results in water conservancy projects and reduce project costs. 
 
