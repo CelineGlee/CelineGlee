@@ -22,6 +22,7 @@
   - end-to-end ML workflows
 
 **Full-Stack Development**
+- **Language & Framework:** Java, Python, Spring Boot
 - **Frontend:**
   - React, React Native, JavaScript, TypeScript
 - **Backend:**
@@ -29,7 +30,7 @@
 - **Database:**
   - SQL Server, PostgreSQL
 - **Cloud & Deployment:**
-  - AWS, Amplify, Docker, CI/CD, Git, GitHub
+  - AWS, Amplify, Docker, OpenShift, CI/CD, Git, GitHub
 
 **Game Development:** 
 - Blender, Unity
@@ -41,14 +42,15 @@
   
 ---
 
-### 👩‍💻 Internship Experience:
-Oct 2025 - Present, Software Development Intern | Rooivalk <i>(Brisbane, Australia)</i>
-- Responsible for the development and maintenance of on-site websites for construction projects, enabling users to manage their machinery, companies, and employees at construction sites.
-- Utilizing mathematical models and statistics to optimize water purification results in water conservancy projects and reduce project costs. 
+### 👩‍💻 Working Experience:
+May 2026 - Present
+- <p>Software Developer | EdgeMatters <i>(Brisbane, Australia)</i></p>
 
-Mar 2022 - May 2022, Data Analysis Intern | Bank of China <i>(Yunnan, China)</i>
-- Optimized core banking databases with SQL tuning and structural improvements, boosting efficiency and stability.
-- Analyzed multi-dimensional data with Excel (PivotTables, Power Query, VBA) to identify trends, support risk management, and ensure data integrity across IT, finance, and compliance teams.
+Oct 2025 - May 2026
+- <p>Software Development Intern | Rooivalk <i>(Brisbane, Australia)</i></p>
+
+Mar 2022 - May 2022
+- <p>Data Analysis Intern | Bank of China <i>(Yunnan, China)</i></p>
 
 ---
   
