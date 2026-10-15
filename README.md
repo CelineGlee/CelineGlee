@@ -44,7 +44,7 @@
 
 ### 👩‍💻 Working Experience:
 May 2026 - Present
-- <p>Software Developer | EdgeMatters <i>(Brisbane, Australia)</i></p>
+- <p>Junior Software Developer | EdgeMatters <i>(Brisbane, Australia)</i></p>
 
 Oct 2025 - May 2026
 - <p>Software Development Intern | Rooivalk <i>(Brisbane, Australia)</i></p>
