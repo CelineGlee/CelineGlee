@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Yuting. Welcome to My World ! </h2>
 
 ### 😎 About Me:
+- 👩‍💻 I’m an enthusiastic software engineer.
 - 🚀 I’m currently exploring Mathematics, ML, and AI, etc. 
 - 🦜 Fluent in **Mandarin** and **English**; currently learning **Japanese**. 
-- 💬 I’m looking for a job about software developer / ML-related role. 
 - 🌟 Developing fun and productive micro tool. 
 - ❤️ I love Crocheting, Reading, Digital Game, and BirdWatching!
 - 📧 You can reach me at: yutingcai270@gmail.com. 
@@ -13,7 +13,6 @@
 ### 🖥️ Skill:
 **ML/DL**
 - **Frameworks:** TensorFlow, PyTorch
-- **Data & Features:** Pandas, NumPy
 - **Computer Vision:** OpenCV
 - **Model Cloud & Deployment:** Kubernetes, Kibana, ElasticSerach, Fission, HuggingFace
 - **Skills:**
